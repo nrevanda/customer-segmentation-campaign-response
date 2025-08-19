@@ -90,7 +90,7 @@ The repository is organized as follows:
 │
 ├── notebooks          <- All stages of analysis (data cleaning, EDA, and reporting) were conducted within Jupyter Notebooks
 │
-├── images             <- Plots, graphs, and exported visualizations
+├── slide             <- Presentation including background, objective, visuals and business strategies
 │
 ├── dashboard          <- Tableau workbook and related files
 │
