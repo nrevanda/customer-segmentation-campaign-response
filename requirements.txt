@@ -1,3 +1,5 @@
+module's version that had been used:
+
 pandas == 2.3.1
 numpy == 2.3.2
 matplotlib == 3.10.5
